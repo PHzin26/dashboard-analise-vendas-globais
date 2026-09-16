@@ -103,7 +103,7 @@ Esses filtros alteram dinamicamente as visualizações e os indicadores apresent
 
 O projeto foi organizado de forma a possibilitar diferentes perspectivas sobre os dados de vendas:
 
-```text
+
 Vendas
 │
 ├── Análise temporal
@@ -127,7 +127,7 @@ Vendas
 
 Arquivo contendo o projeto desenvolvido no Power BI, incluindo as visualizações, filtros, medidas e estrutura utilizada na construção do dashboard.
 
----
+--- 
 
 # ▶️ Como visualizar o projeto
 
