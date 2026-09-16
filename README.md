@@ -103,7 +103,7 @@ Esses filtros alteram dinamicamente as visualizações e os indicadores apresent
 
 O projeto foi organizado de forma a possibilitar diferentes perspectivas sobre os dados de vendas:
 
-
+```text
 Vendas
 │
 ├── Análise temporal
@@ -121,6 +121,8 @@ Vendas
 │
 └── Análise de descontos
     └── Média de desconto
+```
+
 ### Arquivos
 
 **`dashboard.pbix`**
