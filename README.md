@@ -1,5 +1,7 @@
 # 📊 Dashboard Analítico de Vendas Globais
 
+<img width="1518" height="811" alt="image" src="https://github.com/user-attachments/assets/5ee9e4cd-2ceb-4ead-9368-0046ba9883b8" />
+
 ## 📌 Sobre o projeto
 
 Este projeto consiste no desenvolvimento de um **Dashboard Analítico de Vendas Globais** utilizando o **Microsoft Power BI**, com o objetivo de transformar dados de vendas em informações visuais para facilitar a análise e interpretação dos resultados.
